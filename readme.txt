@@ -1,4 +1,4 @@
-ZaloPay Business Gateway for WooCommerce
+Cổng thanh toán ZaloPay Business
 Contributors: tranbinhcse
 Donate link: https://tinohost.com/
 Tags: ZaloPay, ZaloPay payment, tinohost, tino
